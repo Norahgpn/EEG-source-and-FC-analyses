@@ -5,7 +5,7 @@ This repository includes the code scripts written by Nora Hagopian during her ma
 
 READ the MANUAL of the scripts available in the repository to guide you along the available scripts for EEG functional connectivity source-reconstruction analyses. The source-reconstruction is executed using the open-source application: Brainstorm (https://neuroimage.usc.edu/brainstorm/Introduction).
 
-The provided code is applicable in MATLAB. 
+The provided code is applicable in MATLAB.
 
-For any questions regarding the code or thesis contact: norahagopian@hotmail.com 
-If you are interested in Nora's master thesis, please see: https://online.flippingbook.com/view/755365617/ 
+If you are interested in Nora's master thesis, please see: https://online.flippingbook.com/view/755365617/.
+For any questions regarding the code or thesis contact: norahagopian@hotmail.com

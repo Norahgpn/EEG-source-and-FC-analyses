@@ -7,5 +7,5 @@ READ the MANUAL of the scripts available in the repository to guide you along th
 
 The provided code is applicable in MATLAB.
 
-If you are interested in Nora's master thesis, please see: https://online.flippingbook.com/view/755365617/.
-For any questions regarding the code or thesis contact: norahagopian@hotmail.com
+If you are interested in Nora's master thesis, please see: https://online.flippingbook.com/view/755365617/
+For any questions regarding the code or thesis please contact: norahagopian@hotmail.com
